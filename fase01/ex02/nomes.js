@@ -1,6 +1,4 @@
-function mostrarNome(){
-console.log("Marvin")
+function nomes(nome1, nome2){
+console.log("Arthur e Zaphod")
 }
-mostrarNome()
-
-
+nomes("Arthur e Zaphod")
