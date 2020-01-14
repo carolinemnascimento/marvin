@@ -1,4 +1,4 @@
 function nomes(nome1, nome2){
-console.log("Arthur e Zaphod")
+console.log("Marvin e Cachalote")
 }
-nomes("Arthur e Zaphod")
+nomes("Marvin e Cachalote")
