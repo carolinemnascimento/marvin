@@ -1,3 +1,3 @@
 function minusculo(palavra){
-    return("minusculo".substring(0, 1).toLowerCase());
+    return (palavra.substring(1, 0).toLowerCase());
 }
