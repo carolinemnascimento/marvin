@@ -1,3 +1,3 @@
 function iniciais(palavra){
-    return("mochileiro".substring(0, 3));
+    return (palavra.substring(0, 3));
 }
