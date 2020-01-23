@@ -1,3 +1,3 @@
 function penultimo(palavra){
-    return("carol".substring(4, 3));
+    return (palavra.substring(4, 3));
 }
