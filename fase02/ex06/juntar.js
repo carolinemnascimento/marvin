@@ -1,3 +1,3 @@
 function juntar (num1, num2){
-    return(Number(num1) + Number(num2).toString())
+    return Number(num1 + num2.toString())
 }
